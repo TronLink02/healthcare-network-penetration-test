@@ -21,3 +21,11 @@ The lab environment consisted of three virtual machines:
 - Kali Linux (Attacker).
 - Metasploitable 2 (Linux Server).
 - Windows 10 (Workstation).
+
+  ---
+
+## 📄 Full Technical Report
+
+For a detailed breakdown of the methodology, exploitation steps, and complete findings, view the full report below:
+
+👉 [Penetration Test Report](./penetration-test-report.pdf)
